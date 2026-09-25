@@ -1,0 +1,25 @@
+.sidebar-my-image{
+	height: 150px;
+	width: 150px;
+}
+
+.sidebar-my-name{
+	text-align: center;
+}
+
+.sidebar-about-me{
+	text-align: center;
+	padding: 20px;
+	background-color: black;
+	color: gold;
+}
+
+.sidebar-social-media{
+	background-color: black;
+}
+
+.sidebar-social-icon{
+	background-color: black;
+	color: gold;
+}
+
